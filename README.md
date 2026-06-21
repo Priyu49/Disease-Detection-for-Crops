@@ -84,7 +84,7 @@ Add screenshots of:
   <img width="959" height="439" alt="Screenshot 2026-06-21 233243" src="https://github.com/user-attachments/assets/9e9c0fbf-5840-4491-b304-717ea670457f" />
 
 - Disease Prediction Page
- <img width="1835" height="836" alt="Screenshot 2026-04-09 124429" src="https://github.com/user-attachments/assets/55d8c35c-93e0-4e76-be23-1b834e9398dc" />
+ <img width="1824" height="832" alt="Screenshot 2026-04-09 134241" src="https://github.com/user-attachments/assets/02aff9c8-3860-45c2-8c5f-a9b9bb8a7748" />
 
   <img width="1835" height="836" alt="Screenshot 2026-04-09 124429" src="https://github.com/user-attachments/assets/92b669c9-8d0f-48f2-bbab-106b088fa566" />
 
