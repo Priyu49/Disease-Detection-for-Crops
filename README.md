@@ -80,15 +80,22 @@ streamlit run app.py
 
 Add screenshots of:
 - Home Page
+  
+  <img width="959" height="439" alt="Screenshot 2026-06-21 233243" src="https://github.com/user-attachments/assets/9e9c0fbf-5840-4491-b304-717ea670457f" />
+
 - Disease Prediction Page
-  <img width="1468" height="751" alt="Screenshot 2026-04-09 025545" src="https://github.com/user-attachments/assets/5b90016a-c0ea-463f-bf93-953d2d7bf88f" />
+ <img width="1835" height="836" alt="Screenshot 2026-04-09 124429" src="https://github.com/user-attachments/assets/55d8c35c-93e0-4e76-be23-1b834e9398dc" />
+
   <img width="1835" height="836" alt="Screenshot 2026-04-09 124429" src="https://github.com/user-attachments/assets/92b669c9-8d0f-48f2-bbab-106b088fa566" />
 
-
 - Fertilizer Recommendation Page
-- Weather Tips Page
-  <img width="1468" height="751" alt="Screenshot 2026-04-09 025545" src="https://github.com/user-attachments/assets/9ad76537-bb4c-41d2-a0b7-0e7b9705ae42" />
+  <img width="881" height="400" alt="Screenshot 2026-06-21 233341" src="https://github.com/user-attachments/assets/5a5f5436-3644-42bd-8565-65aadec51d3e" />
 
+  <img width="882" height="407" alt="Screenshot 2026-06-21 233411" src="https://github.com/user-attachments/assets/82f400ff-7341-4c6e-aabd-3e6dd4bbcee8" />
+
+- Weather Tips Page
+
+<img width="876" height="399" alt="Screenshot 2026-06-21 233533" src="https://github.com/user-attachments/assets/c43a9e21-7bed-4008-8a71-2aa1fea24b6d" />
 
 ## 🎯 Future Enhancements
 
