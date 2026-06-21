@@ -81,6 +81,7 @@ streamlit run app.py
 Add screenshots of:
 - Home Page
 - Disease Prediction Page
+  https://github.com/Priyu49/Disease-Detection-for-Crops/commit/ae79a5ca7789b0e138dcf9be9aa753427ddd9f2f
 - Fertilizer Recommendation Page
 - Weather Tips Page
 
